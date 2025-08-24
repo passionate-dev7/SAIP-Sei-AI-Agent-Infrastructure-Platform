@@ -1,4 +1,4 @@
-# Agent Framework v2 🤖
+# Agent Framework 🤖
 
 Advanced TypeScript Agent Framework with Next.js, Swarm Coordination, and Blockchain Integration
 
@@ -40,7 +40,7 @@ Advanced TypeScript Agent Framework with Next.js, Swarm Coordination, and Blockc
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd agent-framework-v2
+cd agent-framework
 
 # Install dependencies
 npm install

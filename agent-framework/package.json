@@ -1,5 +1,5 @@
 {
-  "name": "agent-framework-v2",
+  "name": "agent-framework",
   "version": "2.0.0",
   "description": "Advanced TypeScript Agent Framework with Next.js, Swarm Coordination, and Blockchain Integration",
   "private": true,
@@ -41,6 +41,7 @@
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/uuid": "^10.0.0",
+    "@types/ws": "^8.18.1",
     "eslint": "^9.34.0",
     "eslint-config-next": "^15.5.0",
     "jest": "^29.7.0",
