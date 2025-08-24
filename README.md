@@ -6,7 +6,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/sei-agent-platform)
 [![Sei Network](https://img.shields.io/badge/Sei-Mainnet-red.svg)](https://sei.io)
 
-## 🏆 Sei Network Hackathon - Tooling & Infrastructure Track ($75,000)
+## 🏆 Sei Network Hackathon - Tooling & Infrastructure Track
 
 Building the foundational tools and infrastructure that enable developers to create, deploy, and manage AI agents on Sei's ultra-fast blockchain.
 
@@ -24,8 +24,8 @@ Building the foundational tools and infrastructure that enable developers to cre
 
 ```bash
 # Clone the repository
-git clone https://github.com/sei-agent-platform/platform.git
-cd platform
+git clone https://github.com/passionate-dev7/SAIP-Sei-AI-Agent-Infrastructure-Platform/tree/main
+
 
 # Install dependencies
 ./scripts/install-all.sh
