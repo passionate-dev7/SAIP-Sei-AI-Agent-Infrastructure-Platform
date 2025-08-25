@@ -19,14 +19,14 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"],
-      "@/components/*": ["./src/components/*"],
-      "@/lib/*": ["./src/lib/*"],
-      "@/types/*": ["./src/types/*"],
-      "@/hooks/*": ["./src/hooks/*"],
-      "@/utils/*": ["./src/utils/*"],
-      "@/agents/*": ["./src/agents/*"],
-      "@/blockchain/*": ["./src/blockchain/*"]
+      "@/*": ["./*"],
+      "@/components/*": ["./components/*"],
+      "@/lib/*": ["lib/*"],
+      "@/types/*": ["types/*"],
+      "@/hooks/*": ["./hooks/*"],
+      "@/utils/*": ["./utils/*"],
+      "@/agents/*": ["agents/*"],
+      "@/blockchain/*": ["blockchain/*"]
     },
     "target": "ES2017",
     "forceConsistentCasingInFileNames": true,
